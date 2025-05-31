@@ -44,22 +44,25 @@ export default function CartaOficial() {
                 La Habana, 31 de mayo de 2025
               </p>
               <p className="text-sm md:text-base font-semibold">
-                Año 67 de la Revolución
+                Año 67 de la Revolución Cubana
               </p>
             </div>
           </div>
         </div>
 
-        {/* Cita de Fidel */}
+        {/* Cita de FEU */}
         <div className="bg-gradient-to-r from-amber-100 to-yellow-100 p-6 md:p-8 border-b-4 border-yellow-400">
           <div className="flex items-start gap-4">
             <Quote className="w-8 h-8 text-yellow-600 flex-shrink-0 mt-1" />
             <div>
               <blockquote className="text-lg md:text-xl font-semibold text-gray-800 italic leading-relaxed">
-                "Revolución es cambiar todo lo que debe ser cambiado"
+                "Representar al estudiantado universitario; canalizando sus
+                inquietudes, defendiendo sus intereses y viabilizando sus
+                iniciativas. Garantizar el ejercicio efectivo de los derechos de
+                sus miembros y velar por el cumplimiento de sus deberes"
               </blockquote>
               <cite className="text-base md:text-lg font-bold text-yellow-700 mt-2 block">
-                — Comandante en Jefe Fidel Castro Ruz
+                — Objetivo general 2 del ABC de la FEU
               </cite>
             </div>
           </div>
