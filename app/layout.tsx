@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Facultad de Ingeniería Informática",
-      url: "https://fii.cujae.edu.cu",
+      url: "https://carta-feu-fii.vercel.app",
     },
   ],
   creator: "Facultad de Ingeniería Informática - CUJAE",
