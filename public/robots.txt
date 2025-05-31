@@ -1,0 +1,15 @@
+# Robots.txt para Carta Oficial FII-CUJAE
+# Este es un sistema interno de la universidad
+
+User-agent: *
+Disallow: /
+
+# Permitir acceso solo a recursos específicos si es necesario
+# Allow: /logo-orqui.png
+# Allow: /manifest.json
+
+# Información de contacto
+# Contact: webmaster@fii.cujae.edu.cu
+
+# Sitemap (si se implementa en el futuro)
+# Sitemap: https://carta-oficial.fii.cujae.edu.cu/sitemap.xml

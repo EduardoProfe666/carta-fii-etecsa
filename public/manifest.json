@@ -1,0 +1,47 @@
+{
+  "name": "Carta Oficial - Facultad de Ingeniería Informática",
+  "short_name": "Carta Oficial FII",
+  "description": "Carta de la FEU de la Facultad de Ingeniería Informática de la Universidad Tecnológica de La Habana José Antonio Echeverría (CUJAE) ante los cambios de las políticas de uso de Etecsa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbbf24",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es-CU",
+  "dir": "ltr",
+  "categories": ["education", "productivity", "business"],
+  "icons": [
+    {
+      "src": "/logo-orqui.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/placeholder.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Vista principal de la carta oficial"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Nueva Carta",
+      "short_name": "Nueva",
+      "description": "Crear una nueva carta oficial",
+      "url": "/",
+      "icons": [
+        {
+          "src": "/logo-orqui.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ]
+}
