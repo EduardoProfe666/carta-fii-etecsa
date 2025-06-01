@@ -197,11 +197,6 @@ export default function CartaOficial() {
                   humano al acceso a Internet.
                 </li>
                 <li>
-                  El establecimiento de un protocolo especial para instituciones
-                  de educación superior que garantice el acceso necesario para
-                  fines académicos y de investigación.
-                </li>
-                <li>
                   La propiciación de un espacio de diálogo constructivo entre
                   representantes estudiantiles, incluidos los Consejos de la FEU
                   de otras facultades y universidades, y ETECSA, con el objetivo
