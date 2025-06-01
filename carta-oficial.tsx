@@ -2,7 +2,10 @@ import { Calendar, MapPin, Quote } from "lucide-react";
 
 export default function CartaOficial() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-yellow-50 to-amber-50 p-4 md:p-8">
+    <div
+      className="min-h-screen bg-gradient-to-br from-yellow-50 to-amber-50 p-4 md:p-8"
+      lang="es"
+    >
       <div className="max-w-5xl mx-auto bg-white shadow-2xl rounded-lg overflow-hidden border border-yellow-200">
         {/* Header */}
         <div className="bg-gradient-to-r from-yellow-500 via-amber-500 to-yellow-600 p-4 sm:p-6 md:p-8">
@@ -79,8 +82,14 @@ export default function CartaOficial() {
           </div>
 
           {/* Cuerpo de la carta */}
-          <div className="space-y-8 text-gray-700 leading-relaxed text-justify">
-            <p className="text-md md:text-xl font-medium">
+          <div
+            className="space-y-8 text-gray-700 leading-relaxed text-justify [text-align-last:left] [hyphens:auto] [hyphenate-character:'-'] [word-spacing:0.05em] [letter-spacing:0.01em] [text-rendering:optimizeLegibility] [lang:es]"
+            lang="es"
+          >
+            <p
+              className="text-md md:text-xl font-medium [hyphens:auto] [hyphenate-character:'-'] [word-break:break-word] [overflow-wrap:break-word] [text-rendering:optimizeLegibility] [hyphenate-limit-chars:6_2_2] [hyphenate-limit-lines:3] [hyphenate-limit-last:always] [hyphenate-limit-zone:8%]"
+              lang="es"
+            >
               El Consejo de la Federación Estudiantil Universitaria de la
               Facultad de Ingeniería Informática de la Universidad Tecnológica
               de La Habana "José Antonio Echeverría" (CUJAE), en ejercicio de su
@@ -96,10 +105,13 @@ export default function CartaOficial() {
               <h5 className="text-lg font-bold text-gray-800 mb-3">
                 CONSIDERANDO:
               </h5>
-              <ul className="space-y-3 text-base md:text-lg">
+              <ul
+                className="space-y-3 text-base md:text-lg [hyphens:auto] [hyphenate-character:'-'] [word-spacing:0.03em] [text-rendering:optimizeLegibility] [hyphenate-limit-chars:6_2_2]"
+                lang="es"
+              >
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-yellow-500 rounded-full mt-3 flex-shrink-0"></span>
-                  <span>
+                  <span className="[hyphens:auto] [hyphenate-character:'-'] [word-break:break-word] [overflow-wrap:break-word] [text-rendering:optimizeLegibility]">
                     Que el acceso a Internet constituye un derecho humano global
                     y una herramienta esencial para el estudio, la superación
                     profesional y la investigación académica en el siglo XXI.
@@ -107,7 +119,10 @@ export default function CartaOficial() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-yellow-500 rounded-full mt-3 flex-shrink-0"></span>
-                  <span>
+                  <span
+                    className="[hyphens:auto] [hyphenate-character:'-'] [word-break:break-word] [overflow-wrap:break-word] [text-rendering:optimizeLegibility] [hyphenate-limit-chars:6_2_2]"
+                    lang="es"
+                  >
                     Que la formación de ingenieros informáticos de excelencia
                     requiere del acceso irrestricto a recursos digitales,
                     plataformas de desarrollo y herramientas tecnológicas
@@ -117,7 +132,7 @@ export default function CartaOficial() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-yellow-500 rounded-full mt-3 flex-shrink-0"></span>
-                  <span>
+                  <span className="[hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
                     Que los planes de estudio actuales y la infraestructura
                     educativa están fundamentados en tecnologías digitales
                     contemporáneas, por lo que cualquier obstáculo al acceso
@@ -126,7 +141,7 @@ export default function CartaOficial() {
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="w-2 h-2 bg-yellow-500 rounded-full mt-3 flex-shrink-0"></span>
-                  <span>
+                  <span className="[hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
                     Que las limitaciones impuestas comprometen gravemente los
                     planes de transformación digital del país y afectan las
                     posibilidades de nuestra generación de insertarse con fuerza
@@ -136,7 +151,7 @@ export default function CartaOficial() {
               </ul>
             </div>
 
-            <p className="text-md md:text-xl">
+            <p className="text-md md:text-xl [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
               Comprendemos las razones expuestas por ETECSA para la adopción de
               estas medidas, fundamentadas en los desafíos financieros,
               tecnológicos y operativos que enfrenta la empresa. No obstante,
@@ -145,7 +160,7 @@ export default function CartaOficial() {
               proceso de enseñanza-aprendizaje de nuestros estudiantes.
             </p>
 
-            <p className="text-md md:text-xl">
+            <p className="text-md md:text-xl [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
               Aunque ETECSA justifica que no se afectarán los planes de
               transformación digital del país y que las afectaciones al
               estudiantado serían mínimas debido a la infraestructura
@@ -159,7 +174,7 @@ export default function CartaOficial() {
               profesional.
             </p>
 
-            <p className="text-md md:text-xl">
+            <p className="text-md md:text-xl [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
               Como institución comprometida con la excelencia académica y el
               desarrollo tecnológico de la nación, entendemos que si realmente
               queremos que nuestra generación se inserte con fuerza y
@@ -174,7 +189,7 @@ export default function CartaOficial() {
               <h5 className="text-lg font-bold text-gray-800 mb-3">
                 POR TANTO, SOLICITAMOS:
               </h5>
-              <ol className="space-y-3 text-base md:text-lg list-decimal list-inside">
+              <ol className="space-y-3 text-base md:text-lg list-decimal list-inside [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
                 <li>
                   La revisión inmediata de las políticas restrictivas que
                   afectan el acceso a recursos educativos digitales y el derecho
@@ -200,7 +215,7 @@ export default function CartaOficial() {
               </ol>
             </div>
 
-            <p className="text-md md:text-xl">
+            <p className="text-md md:text-xl [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
               Reconocemos que aunque la única ventaja aparente de estas medidas
               sería la entrada de divisas al país, esto no debe lograrse a costa
               de limitar el acceso a Internet del pueblo cubano. Confiamos en
