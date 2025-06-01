@@ -9,11 +9,11 @@ export default function CartaOficial() {
           <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-4 sm:gap-6">
             {/* Logo y nombre de la facultad */}
             <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 sm:gap-6 w-full lg:w-auto">
-              <div className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 bg-white rounded-full flex items-center justify-center shadow-xl border-4 border-yellow-300 flex-shrink-0 mx-auto sm:mx-0">
+              <div className="w-28 h-28 sm:w-20 sm:h-20 md:w-24 md:h-24 bg-white rounded-full flex items-center justify-center shadow-xl border-4 border-yellow-300 flex-shrink-0 mx-auto sm:mx-0">
                 <img
                   src="/logo-orqui.png"
                   alt="Escudo de la Facultad de Ingeniería Informática"
-                  className="w-10 h-10 sm:w-14 sm:h-14 md:w-16 md:h-16"
+                  className="w-20 h-20 sm:w-14 sm:h-14 md:w-16 md:h-16"
                 />
               </div>
               <div className="text-white text-center sm:text-left w-full sm:w-auto">
