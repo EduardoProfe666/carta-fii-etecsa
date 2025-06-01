@@ -152,12 +152,13 @@ export default function CartaOficial() {
             </div>
 
             <p className="text-md md:text-xl [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
-              Comprendemos las razones expuestas por ETECSA para la adopción de
-              estas medidas, fundamentadas en los desafíos financieros,
-              tecnológicos y operativos que enfrenta la empresa. No obstante,
-              consideramos que la forma en que fueron ejecutadas no resultó
-              apropiada ni oportuna, generando un impacto negativo directo en el
-              proceso de enseñanza-aprendizaje de nuestros estudiantes.
+              Las razones expuestas por ETECSA para la adopción de estas
+              medidas, fundamentadas en los desafíos financieros, tecnológicos y
+              operativos que enfrenta la empresa, son claras. Sin embargo,
+              consideramos que la forma en que fueron implementadas no resultó
+              apropiada ni oportuna, lo que ha generado un impacto negativo
+              directo en el proceso de enseñanza-aprendizaje de nuestros
+              estudiantes.
             </p>
 
             <p className="text-md md:text-xl [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
