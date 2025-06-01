@@ -216,14 +216,13 @@ export default function CartaOficial() {
             </div>
 
             <p className="text-md md:text-xl [hyphens:auto] [word-break:break-word] [overflow-wrap:break-word]">
-              Reconocemos que aunque la única ventaja aparente de estas medidas
-              sería la entrada de divisas al país, esto no debe lograrse a costa
-              de limitar el acceso a Internet del pueblo cubano. Confiamos en
-              que ETECSA, como empresa estatal comprometida con el desarrollo
-              del país, reconsiderará estas medidas y priorizará el apoyo a la
-              formación de los profesionales que Cuba necesita para su
-              desarrollo tecnológico y científico, contribuyendo así eficazmente
-              al futuro de nuestra nación.
+              Reconocemos la importancia de adoptar medidas que impulsen el
+              desarrollo tecnológico y científico de nuestro país. Confiamos en
+              que ETECSA, como empresa estatal comprometida con el progreso
+              nacional, reconsiderará estas disposiciones y priorizará el apoyo
+              a la formación de los profesionales que Cuba necesita. De este
+              modo, se contribuirá de manera eficaz al futuro y bienestar de
+              nuestra nación.
             </p>
           </div>
 
